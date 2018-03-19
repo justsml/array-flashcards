@@ -19,11 +19,11 @@
 
 ## Utility Methods
 
-> Methods which inspect, change or return new arrays on the array from which they are called.
+> Inspect, change or return new array.
 
-* concat - returns a new array combining each argument (must be arrays) in sequence.
-* join - returns a string, joined by the given string argument.
-* reverse - *modifies array in-place*
+* concat - new array by combining the array param(s).
+* join - returns a string, with given string argument.
+* reverse - reverses *array in-place*
 * includes - returns a boolean
 * indexOf/lastIndexOf
 * Array.fill
